@@ -1,4 +1,4 @@
-# PyCharm
+# Training Models
 
 Repositroy for basics machine learning models.
 
